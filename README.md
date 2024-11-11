@@ -63,12 +63,13 @@ Un framework di sicurezza delle informazioni è un insieme completo di documenti
 **Sviluppo dei Documenti di Governance**
 
 Passaggi generali per sviluppare policies, standards e guidelines:
-	1.	**Identificare l’ambito e lo scopo**: Definire cosa coprirà il documento e perché è necessario.
-	2.	**Ricerca e revisione**: Studiare normative, best practice e documenti esistenti.
-	3.	**Stesura del documento**: Creare una bozza chiara, specifica e allineata agli obiettivi aziendali.
-	4.	**Revisione e approvazione**: Ottenere feedback e approvazione da esperti, legali e management.
-	5.	**Implementazione e comunicazione**: Diffondere il documento e formare i dipendenti.
-	6.	**Revisione e aggiornamento**: Aggiornare periodicamente il documento.
+
+1. **Identificare l’ambito e lo scopo**: Definire cosa coprirà il documento e perché è necessario.
+2. **Ricerca e revisione**: Studiare normative, best practice e documenti esistenti.
+3. **Stesura del documento**: Creare una bozza chiara, specifica e allineata agli obiettivi aziendali.
+4. **Revisione e approvazione**: Ottenere feedback e approvazione da esperti, legali e management.
+5. **Implementazione e comunicazione**: Diffondere il documento e formare i dipendenti.
+6. **Revisione e aggiornamento**: Aggiornare periodicamente il documento.
 
  _Esempi pratici_
 
