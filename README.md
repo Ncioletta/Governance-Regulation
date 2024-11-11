@@ -130,5 +130,37 @@ _Esempio: Implementazione del GRC nel Settore Finanziario_
 - Compliance: Conformità con normative come PCI DSS e GLBA, implementazione di SSL/TLS per prevenire attacchi MITM e campagne di sensibilizzazione contro il phishing.
 
 
+# General Data Protection Regulation (GDPR)
+
+Il GDPR è una legge dell’Unione Europea entrata in vigore a maggio 2018 per proteggere i dati personali, definiti come “qualsiasi dato associato a un individuo che possa essere utilizzato per identificarlo, direttamente o indirettamente”.
+
+<img width="642" alt="Screenshot 2024-11-11 alle 16 33 19" src="https://github.com/user-attachments/assets/ad3a0d41-5a22-4e71-a6ce-0a0e6705da4c">
+
+_Punti chiave_
+
+- **Consenso preventiv**o: È necessario ottenere l’approvazione dell’individuo prima di raccogliere i suoi dati personali.
+- **Minimizzazione dei dati**: I dati raccolti devono essere limitati al minimo necessario e raccolti solo quando richiesto.
+- **Misure di protezione**: Devono essere adottate misure adeguate per proteggere i dati personali archiviati.
+- **Applicabilità**: Si applica a tutte le **entità che operano nell’UE** o **trattano i dati dei residenti dell’UE**.
+- **Raccolta per scopi legittimi**: Le aziende possono raccogliere dati personali solo per motivi legittimi e devono informare l’interessato del loro trattamento.
+
+**Sanzioni GDPR**
+
+1. VIOLAZIONI GRAVI
+Riguarda la raccolta non autorizzata di dati, condivisione non consensuale, ecc: Sanzioni fino al 4% del fatturato dell’azienda o 20 milioni di euro (la cifra maggiore tra le due).
+
+2. VIOLAZIONI MINORI
+Include la mancata notifica di violazioni, politiche di sicurezza insufficienti; Sanzioni fino al 2% del fatturato dell’azienda o 10 milioni di euro (la cifra maggiore tra le due).
+
+
+**Standard di Sicurezza dei Dati del Settore delle Carte di Pagamento (PCI DSS)**
+
+Il PCI DSS è uno standard volto a garantire la sicurezza delle transazioni con carta e a proteggere contro furti e frodi. Stabilito da grandi marchi di carte di credito (Visa, MasterCard, American Express), questo standard richiede:
+
+- Controllo rigoroso sull’accesso alle informazioni dei titolari di carta.
+- Monitoraggio degli accessi non autorizzati con misure di sicurezza come firewall per applicazioni web e crittografia.
+
+
+
 
 
