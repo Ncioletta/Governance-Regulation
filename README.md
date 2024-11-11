@@ -18,11 +18,11 @@ La governance della sicurezza delle informazioni rappresenta la struttura e le p
 
 **Processi della Governance della Sicurezza delle Informazioni:**
 
-	1. Strategy: Sviluppare una strategia di sicurezza allineata agli obiettivi aziendali.
-	2. Politiche e procedure: Definire linee guida per l’uso e la protezione degli asset informativi.
-	3. Gestione del rischio: Identificare le minacce e implementare misure di mitigazione.
-	4. Misurazione delle prestazioni: Stabilire KPI per valutare l’efficacia del programma di governance.
-	5. Compliance: Assicurare la conformità con regolamentazioni e best practice.
+1. Strategy: Sviluppare una strategia di sicurezza allineata agli obiettivi aziendali.
+2. Politiche e procedure: Definire linee guida per l’uso e la protezione degli asset informativi.
+3. Gestione del rischio: Identificare le minacce e implementare misure di mitigazione.
+4. Misurazione delle prestazioni: Stabilire KPI per valutare l’efficacia del programma di governance.
+5. Compliance: Assicurare la conformità con regolamentazioni e best practice.
 
 
 **Regolamentazione della Sicurezza delle Informazioni**
