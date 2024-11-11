@@ -179,6 +179,7 @@ La Gestione del Programma (Program Management) è un controllo cruciale che rich
 - **Scopo e Ambito**: Definire gli obiettivi e il perimetro del programma di sicurezza.
 - **Monitoraggio Continuo**: Verifica continua del programma per garantire che risponda ai cambiamenti nel contesto organizzativo e alle minacce emergenti.
 
+<img width="921" alt="Screenshot 2024-11-11 alle 16 56 28" src="https://github.com/user-attachments/assets/5afc6325-3d50-45ab-9c7f-357786a66c65">
 
 **Best Practices per la Conformità NIST 800-53**
 
@@ -190,7 +191,8 @@ La Gestione del Programma (Program Management) è un controllo cruciale che rich
 
 4. Monitoraggio e Valutazione Regolari: Stabilire sistemi di monitoraggio per rilevare e risolvere i problemi di sicurezza, effettuare valutazioni e audit periodici.
 
-<img width="921" alt="Screenshot 2024-11-11 alle 16 56 28" src="https://github.com/user-attachments/assets/5afc6325-3d50-45ab-9c7f-357786a66c65">
+<img width="541" alt="Screenshot 2024-11-11 alle 17 00 34" src="https://github.com/user-attachments/assets/8626df24-4375-4346-b7ae-d12db3b97ea4">
+
 
 # NIST 800-63B: Linee Guida per la Gestione dell’Identità Digitale
 
@@ -199,3 +201,49 @@ Il NIST 800-63B è un insieme di linee guida del NIST per pratiche efficaci di i
 - **Livelli di Assurance**: Raccomandazioni per livelli di sicurezza dell’identità, dal base all’alta sicurezza.
 - **Autenticazione**: Consigli sull’uso di fattori di autenticazione come password, biometria e token.
 - **Gestione delle Credenziali**: Pratiche sicure per l’archiviazione e gestione delle credenziali.
+
+
+# INFORMATION SECURITY MANAGEMENT & COMPLIANCE
+
+La **Gestione della Sicurezza delle Informazioni (IS)** include la pianificazione strategica, l’esecuzione e la gestione continua delle misure di sicurezza per proteggere gli asset informativi da accessi non autorizzati, uso improprio, divulgazione, interruzione, alterazione e distruzione. Comprende valutazione dei rischi, sviluppo dei controlli, pianificazione della risposta agli incidenti e formazione sulla sicurezza. La **Conformità** riguarda il rispetto delle normative legali, regolamentari e degli standard specifici del settore.
+
+# ISO/IEC 27001
+
+ISO 27001 è uno standard internazionale per la creazione, gestione e aggiornamento di un Sistema di Gestione della Sicurezza delle Informazioni (ISMS). Sviluppato dall’ISO e dall’IEC, i suoi componenti principali includono:
+- **Ambito**: Definisce i confini dell’ISMS, includendo asset e processi coperti.
+- **Politica di sicurezza delle informazioni**: Documento ad alto livello sulla sicurezza.
+- **Valutazione del rischio**: Identificazione e valutazione dei rischi per la riservatezza, integrità e disponibilità.
+- **Trattamento del rischio**: Selezione e implementazione di controlli per ridurre i rischi.
+- **Dichiarazione di Applicabilità (SoA)**: Specifica i controlli applicabili e non.
+- **Audit interno**: Audit periodici per valutare l’efficacia dell’ISMS.
+- **Revisione della Direzione**: Valutazione regolare delle performance dell’ISMS.
+
+Vantaggi:
+Implementare un ISMS ISO 27001 richiede un’attenta progettazione e valutazione dei processi di sicurezza, identificazione delle lacune e una rigorosa valutazione dei rischi. È fondamentale l’appoggio della leadership e la distribuzione di risorse. Monitoraggio, misurazione e miglioramento continuo sono cruciali per l’efficacia dell’ISMS.
+
+<img width="885" alt="Screenshot 2024-11-11 alle 17 08 41" src="https://github.com/user-attachments/assets/c8f710fc-94bb-4356-81a6-79b030a74ec2">
+
+# Service Organisation Control 2 (SOC 2)
+
+SOC 2 è un framework di conformità/audit sviluppato dall’American Institute of Certified Public Accountants (AICPA) che valuta l’efficacia della sicurezza dei dati di un’azienda secondo la triade CIA (Confidenzialità, Integrità e Disponibilità). È essenziale per i fornitori di servizi che trattano dati sensibili e fornisce rassicurazioni ai clienti su controlli sufficienti per la protezione dei dati.
+
+Punti chiave SOC 2:
+- **Standard di Audit**: Valuta la confidenzialità, disponibilità, integrità e privacy dei controlli.
+- **Audit Indipendenti**: Gli auditor indipendenti valutano se i controlli di sicurezza soddisfano i criteri.
+- **Report SOC 2:** Fornisce informazioni utili ai clienti e agli stakeholder sulla sicurezza e privacy dell’organizzazione, mostrando che i dati e sistemi dei clienti sono protetti.
+
+Esempio: Un’azienda di cloud computing potrebbe sottoporsi a un audit SOC 2 per dimostrare i controlli adeguati sui dati dei clienti nei suoi server, includendo sicurezza fisica, crittografia, backup e formazione dei dipendenti.
+
+**Fasi di Pianificazione e Svolgimento di un Audit SOC 2**
+
+1. Determinare l’ambito: Identificare i sistemi, processi o ubicazioni rilevanti per la sicurezza dei dati.
+2. Scegliere un auditor: Selezionare un auditor qualificato con esperienza negli audit SOC
+3. Pianificare l’audit: Definire con l’auditor il cronoprogramma e i criteri dell’audit.
+4. Prepararsi all’audit: Rivedere controlli, politiche e procedure, e risolvere eventuali lacune.
+5. Svolgimento dell’audit: L’auditor esamina i controlli e ne valuta l’efficacia, attraverso interviste e test.
+6. Ricevere il report dell’audit: Il report finale include i risultati dell’audit, eventuali carenze e raccomandazioni.
+
+<img width="866" alt="Screenshot 2024-11-11 alle 17 09 41" src="https://github.com/user-attachments/assets/125fa4e2-be3e-4223-9a30-36d3b2dddbc8">
+
+
+
