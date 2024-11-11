@@ -74,17 +74,61 @@ Passaggi generali per sviluppare policies, standards e guidelines:
  _Esempi pratici_
 
  1. Policy sulle Password
-	•	Requisiti di complessità e scadenza.
-	•	Linee guida per l’uso e lo stoccaggio.
-	•	Crittografia per la trasmissione e stoccaggio.
-	•	Monitoraggio della conformità e adattamento della policy.
+ 
+Requisiti di complessità e scadenza.
+Linee guida per l’uso e lo stoccaggio.
+Crittografia per la trasmissione e stoccaggio.
+Monitoraggio della conformità e adattamento della policy.
 
 2. Procedura di Risposta agli Incidenti
-	•	Definizione dei tipi di incidenti (accessi non autorizzati, malware, ecc.).
-	•	Ruoli e responsabilità del team di risposta agli incidenti.
-	•	Passaggi specifici: contenimento, analisi, mitigazione e recupero.
-	•	Documentazione e aggiornamento periodico della procedura.
+
+Definizione dei tipi di incidenti (accessi non autorizzati, malware, ecc.).
+Ruoli e responsabilità del team di risposta agli incidenti.
+Passaggi specifici: contenimento, analisi, mitigazione e recupero.
+Documentazione e aggiornamento periodico della procedura.
 
 
 **Utilizzo di Standard e Framework**
 Le organizzazioni possono adottare standard preesistenti, come PCI-DSS per il settore finanziario o HIPAA per la sanità, in base a vari fattori come requisiti normativi, ambito geografico, e obiettivi aziendali.
+
+
+# GOVERNANCE, RISK & COMPLIANCE
+
+![Componenti del Framework GRC](https://github.com/user-attachments/assets/126b2277-0da1-425c-bac8-5567f6129a95)
+
+Il GRC Framework (Governance, Risk, and Compliance) è un approccio integrato che aiuta le organizzazioni a gestire la governance, il rischio aziendale e la conformità con leggi e standard industriali, garantendo che l’organizzazione operi all’interno delle normative rilevanti. Ecco i tre componenti principali del framework GRC:
+
+1. **Governance**
+
+- Definisce la direzione dell’organizzazione attraverso una strategia di sicurezza, inclusi politiche, standard e framework.
+- Stabilisce metodi di monitoraggio per valutare le performance e i risultati.
+
+2. **Risk Managemen**t
+
+- Identifica, valuta e priorizza i rischi, implementando strategie di controllo e mitigazione.
+- Monitora i rischi e aggiorna il programma di gestione del rischio per garantirne l’efficacia continua.
+
+3. **Compliance**
+
+- Garantisce il rispetto di leggi, regolamenti e obblighi industriali.
+- Include la creazione d programmi di conformità, audit regolari e report per gli stakeholder.
+
+
+_Sviluppo di un Programma GRC_
+
+1. Definire ambito e obiettivi: Determinare cosa coprirà il programma GRC e i suoi obiettivi (es. riduzione del rischio informatico del 50% in 12 mesi).
+2. Condurre un’assessment dei rischi: Identificare e valutare i rischi informatici (es. vulnerabilità nel sistema di gestione dei dati dei clienti).
+3. Sviluppare politiche e procedure: Creare linee guida per la sicurezza (es. politica sulle password forti).
+4. Stabilire processi di governance: Gestire il programma attraverso comitati di sicurezza e definizione di ruoli.
+5. Implementare controlli: Attuare misure tecniche e non per mitigare i rischi (es. firewall, SIEM, training del personale).
+6. Monitorare e misurare le performance: Valutare l’efficacia del programma e identificare miglioramenti.
+7. Miglioramento continuo: Revisione e adattamento continuo del programma basato su metriche e feedback.
+
+_Esempio: Implementazione del GRC nel Settore Finanziario_
+- Governance: Designazione di dirigenti e sviluppo di politiche come il Bank Secrecy Act e politiche anti-riciclaggio.
+- Risk Management: Identificazione dei rischi di frode finanziaria, phishing e attacchi informatici.
+- Compliance: Conformità con normative come PCI DSS e GLBA, implementazione di SSL/TLS per prevenire attacchi MITM e campagne di sensibilizzazione contro il phishing.
+
+
+
+
