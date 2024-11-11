@@ -161,6 +161,41 @@ Il PCI DSS è uno standard volto a garantire la sicurezza delle transazioni con 
 - Monitoraggio degli accessi non autorizzati con misure di sicurezza come firewall per applicazioni web e crittografia.
 
 
+# NIST 800-53 - Security and Privacy Controls for Information Systems and Organisations
+
+La pubblicazione NIST 800-53, intitolata “Security and Privacy Controls for Information Systems and Organisations”, è sviluppata dal National Institute of Standards and Technology (NIST) negli Stati Uniti e offre un catalogo di controlli di sicurezza per proteggere la triade CIA (Confidenzialità, Integrità e Disponibilità) dei sistemi informativi. Questo framework aiuta le organizzazioni a valutare e migliorare la sicurezza e la privacy dei loro sistemi per rispettare leggi, regolamenti e politiche.
+
+_Punti Chiave del NIST 800-53_
+
+- Catalogo Completo di Controlli: Include controlli per proteggere le operazioni, asset, personale e partner da minacce come attacchi intenzionali, errori, disastri naturali, fallimenti infrastrutturali e attività di intelligence straniere.
+- Organizzazione in Famiglie di Controlli: NIST 800-53 Revision 5 organizza i controlli in 20 famiglie, ognuna delle quali tratta una specifica categoria di sicurezza.
+
+![Categorie di Controlli del NIST 800-53](https://github.com/user-attachments/assets/e3d0d7e8-8070-41fb-bfd4-bb6aaabf27dc)
 
 
+**Program Management nel NIST 800-53**
 
+La Gestione del Programma (Program Management) è un controllo cruciale che richiede l’implementazione e il monitoraggio di programmi aziendali per la sicurezza delle informazioni e la privacy, assicurando la protezione dei dati elaborati, archiviati o trasmessi. Gli elementi essenziali includono:
+- **Scopo e Ambito**: Definire gli obiettivi e il perimetro del programma di sicurezza.
+- **Monitoraggio Continuo**: Verifica continua del programma per garantire che risponda ai cambiamenti nel contesto organizzativo e alle minacce emergenti.
+
+
+**Best Practices per la Conformità NIST 800-53**
+
+1. Identificazione dei dati e delle minacce: Catalogare gli asset e comprendere i flussi di dati e vulnerabilità.
+
+2. Mappatura dei Controlli: Associare le famiglie di controlli ai rischi specifici dell’organizzazione.
+
+3. Struttura di Governance: Creare una struttura chiara con ruoli e procedure di implementazione e manutenzione.
+
+4. Monitoraggio e Valutazione Regolari: Stabilire sistemi di monitoraggio per rilevare e risolvere i problemi di sicurezza, effettuare valutazioni e audit periodici.
+
+<img width="921" alt="Screenshot 2024-11-11 alle 16 56 28" src="https://github.com/user-attachments/assets/5afc6325-3d50-45ab-9c7f-357786a66c65">
+
+# NIST 800-63B: Linee Guida per la Gestione dell’Identità Digitale
+
+Il NIST 800-63B è un insieme di linee guida del NIST per pratiche efficaci di identità digitale, concentrato sull’autenticazione e verifica delle identità degli utenti dei servizi e sistemi digitali. I punti chiave includono:
+
+- **Livelli di Assurance**: Raccomandazioni per livelli di sicurezza dell’identità, dal base all’alta sicurezza.
+- **Autenticazione**: Consigli sull’uso di fattori di autenticazione come password, biometria e token.
+- **Gestione delle Credenziali**: Pratiche sicure per l’archiviazione e gestione delle credenziali.
