@@ -120,7 +120,7 @@ _Sviluppo di un Programma GRC_
 2. Condurre un’assessment dei rischi: Identificare e valutare i rischi informatici (es. vulnerabilità nel sistema di gestione dei dati dei clienti).
 3. Sviluppare politiche e procedure: Creare linee guida per la sicurezza (es. politica sulle password forti).
 4. Stabilire processi di governance: Gestire il programma attraverso comitati di sicurezza e definizione di ruoli.
-5. Implementare controlli: Attuare misure tecniche e non per mitigare i rischi (es. firewall, SIEM, training del personale).
+5. Implementare controlli: Attuare misure tecniche e non per mitigare i rischi (es. firewall, SIEM, training del personale; **snort** è un **IPS** intrusion prevention system, open-source/a codice aperto; **IDS** intrusion detection system).
 6. Monitorare e misurare le performance: Valutare l’efficacia del programma e identificare miglioramenti.
 7. Miglioramento continuo: Revisione e adattamento continuo del programma basato su metriche e feedback.
 
